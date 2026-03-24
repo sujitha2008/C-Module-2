@@ -1,6 +1,6 @@
 # C-Module-2
 
-**2a) Write a c program to find the sum of odd digits using while loop **
+**2a) Write a c program to find the sum of odd digits using while loop.**
 
 **AIM:**
 
