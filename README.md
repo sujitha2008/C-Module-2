@@ -16,13 +16,14 @@ To write a C program to find the sum of odd digits using while loop.
 
 
 **PROGRAM:**
-
+```
 #include <stdio.h>
 
 int main()
 {
     int n, i = 1, sum = 0;
 
+   
     scanf("%d", &n);
 
     while(i <= n)
@@ -38,6 +39,7 @@ int main()
 
     return 0;
 }
+```
 
 **OUTPUT:**
 
